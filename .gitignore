@@ -1,0 +1,22 @@
+﻿# IntelliJ files
+.idea/
+*.iml
+
+# Compiled Java files
+*.class
+out/
+target/
+
+# Logs
+*.log
+
+# Sensitive configuration
+.env
+.env.*
+!.env.example
+db.properties
+application-local.properties
+
+# OS files
+Thumbs.db
+.DS_Store
